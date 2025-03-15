@@ -1,2 +1,6 @@
 dist/
 build/
+main.spec
+elya.spec
+__pycache__
+venv/
